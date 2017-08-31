@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mmall" target="1.5" />
+      <module name="mmall" target="1.8" />
       <module name="电商项目" target="1.5" />
     </bytecodeTargetLevel>
   </component>
